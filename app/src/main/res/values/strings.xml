@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Timetable</string>
+
+    <string-array name="departments">
+        <item>Biomedical</item>
+        <item>Chemical</item>
+        <item>Computer</item>
+        <item>Electrical</item>
+        <item>EXTC</item>
+        <item>IT</item>
+        <item>Mechanical</item>
+        <item>Production</item>
+    </string-array>
+
+    <string-array name="years">
+        <item>FE</item>
+        <item>SE</item>
+        <item>TE</item>
+        <item>BE</item>
+    </string-array>
+
+    <string name="department_spinner">Select your department</string>
+    <string name="year_spinner">Select your year</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,218 @@
+[
+    {
+      "id": 0,
+      "name": "Data Structures and Analysis",
+      "teacher": "Prof Pranit Bari",
+      "day": 1,
+      "startTime": 11,
+      "endTime": 12
+    },
+    {
+      "id": 1,
+      "name": "Digital Design Lab",
+      "teacher": "Prof Mitchel D'Silva",
+      "day": 1,
+      "startTime": 12,
+      "endTime": 14
+    },
+    {
+      "id": 2,
+      "name": "Database Management System",
+      "teacher": "Prof Neha Katre",
+      "day": 1,
+      "startTime": 14.3,
+      "endTime": 15.3
+    },
+    {
+      "id": 3,
+      "name": "Java Programming Language",
+      "teacher": "Prof Stevina Correia",
+      "day": 1,
+      "startTime": 15.3,
+      "endTime": 16.3
+    },
+    {
+      "id": 4,
+      "name": "Principles of Communication Tutorial",
+      "teacher": "Prof Shefali Pawar",
+      "day": 1,
+      "startTime": 16.3,
+      "endTime": 17.3
+    },
+    {
+      "id": 5,
+      "name": "Database Management System",
+      "teacher": "Prof Arjun Jaiswal",
+      "day": 2,
+      "startTime": 11,
+      "endTime": 12
+    },
+    {
+      "id": 6,
+      "name": "Logic Design",
+      "teacher": "Prof Mitchel D'Silva",
+      "day": 2,
+      "startTime": 12,
+      "endTime": 13
+    },
+    {
+      "id": 7,
+      "name": "Data Structures and Analysis",
+      "teacher": "Prof Neepa Shah",
+      "day": 2,
+      "startTime": 13,
+      "endTime": 14
+    },
+    {
+      "id": 8,
+      "name": "Applied Mathematics-III",
+      "teacher": "Prof Manisha Keshab",
+      "day": 2,
+      "startTime": 14.3,
+      "endTime": 15.3
+    },
+    {
+      "id": 9,
+      "name": "Principles of Communication",
+      "teacher": "Prof Shefali Pawar",
+      "day": 2,
+      "startTime": 15.3,
+      "endTime": 16.3
+    },
+    {
+      "id": 10,
+      "name": "Data Structures and Analysis",
+      "teacher": "Prof Pranit Bari",
+      "day": 3,
+      "startTime": 11,
+      "endTime": 12
+    },
+    {
+      "id": 11,
+      "name": "Applied Mathematics-III",
+      "teacher": "Prof Manisha Keshab",
+      "day": 3,
+      "startTime": 12,
+      "endTime": 13
+    },
+    {
+      "id": 12,
+      "name": "Java Programming Language",
+      "teacher": "Prof Stevina Correia",
+      "day": 3,
+      "startTime": 13,
+      "endTime": 14
+    },
+    {
+      "id": 13,
+      "name": "Java Programming Language Lab",
+      "teacher": "Prof Anusha Vegesna",
+      "day": 3,
+      "startTime": 14.3,
+      "endTime": 16.3
+    },
+    {
+      "id": 14,
+      "name": "Applied Mathematics-III",
+      "teacher": "Prof Manisha Keshab",
+      "day": 4,
+      "startTime": 11,
+      "endTime": 12
+    },
+    {
+      "id": 15,
+      "name": "Structed Query Language Lab",
+      "teacher": "Prof Neha Katre",
+      "day": 4,
+      "startTime": 12,
+      "endTime": 14
+    },
+    {
+      "id": 16,
+      "name": "Logic Design",
+      "teacher": "Prof Mitchel D'Silva",
+      "day": 4,
+      "startTime": 12,
+      "endTime": 14
+    },
+    {
+      "id": 17,
+      "name": "Principles of Communication",
+      "teacher": "Prof Shefali Pawar",
+      "day": 4,
+      "startTime": 14.3,
+      "endTime": 15.3
+    },
+    {
+      "id": 18,
+      "name": "Applied Mathematics-III",
+      "teacher": "Prof Manisha Keshab",
+      "day": 5,
+      "startTime": 11,
+      "endTime": 12
+    },
+    {
+      "id": 19,
+      "name": "Logic Design",
+      "teacher": "Prof Anusha Vegesna",
+      "day": 5,
+      "startTime": 12,
+      "endTime": 13
+    },
+    {
+      "id": 20,
+      "name": "Database Management System",
+      "teacher": "Prof Neha Katre",
+      "day": 5,
+      "startTime": 13,
+      "endTime": 14
+    },
+    {
+      "id": 21,
+      "name": "Data Structures Lab",
+      "teacher": "Prof Neepa Shah",
+      "day": 5,
+      "startTime": 14.3,
+      "endTime": 16.3
+    },
+    {
+      "id": 22,
+      "name": "Applied Mathematics-III Tutorial",
+      "teacher": "Prof Manisha Keshab",
+      "day": 5,
+      "startTime": 16.3,
+      "endTime": 17.3
+    },
+    {
+      "id": 23,
+      "name": "Database Management System",
+      "teacher": "Prof Arjun Jaiswal",
+      "day": 6,
+      "startTime": 11,
+      "endTime": 12
+    },
+    {
+      "id": 24,
+      "name": "Data Structures and Analysis",
+      "teacher": "Prof Neepa Shah",
+      "day": 6,
+      "startTime": 12,
+      "endTime": 13
+    },
+    {
+      "id": 25,
+      "name": "Logic Design",
+      "teacher": "Prof Mitchel D'Silva",
+      "day": 6,
+      "startTime": 13,
+      "endTime": 14
+    },
+    {
+      "id": 26,
+      "name": "Principles of Communication",
+      "teacher": "Prof Shefali Pawar",
+      "day": 6,
+      "startTime": 14.3,
+      "endTime": 15.3
+    }
+]
