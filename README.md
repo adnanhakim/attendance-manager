@@ -12,6 +12,7 @@ The timetable is hard-coded into the application hence enabling it to work offli
 
 1. Developed using Android (Java)
 1. Data stored in SQLite
+1. Has dark mode feature that can be enabled from settings
 
 ## Build
 
